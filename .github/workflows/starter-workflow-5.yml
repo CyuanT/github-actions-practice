@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+#Creating new branch
+>>>>>>> 6ba7658f79044ce6c2893ed66fee0d1845f0e872
 name: Hello World Workflow (Pull with variables)
 
 # Trigger the workflow on push to the main branch and use github settings > secrets and variables
